@@ -17,7 +17,7 @@ const DashboardPage = () => {
     const handleDelete = (id) => {
         const proceed = window.confirm("আপনি কি নিশ্চিত যে এই অ্যাপয়েন্টমেন্টটি বাতিল করতে চান?");
         if (proceed) {
-            fetch(`http://localhost:5000/bookings/${id}`, {
+         fetch(`https://b13-a09.vercel.app/bookings/${id}`, {
                 method: 'DELETE'
             })
             .then(res => res.json())

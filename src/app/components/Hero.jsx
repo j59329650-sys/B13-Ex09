@@ -45,7 +45,7 @@ const Hero = () => {
         };
 
         // fetch দিয়ে ব্যাকএন্ড সার্ভারে ডাটা পাঠানো হচ্ছে
-        fetch('http://localhost:5000/bookings', {
+       fetch('https://b13-a09.vercel.app/bookings', {
             method: 'POST',
             headers: {
                 'content-type': 'application/json'
