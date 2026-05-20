@@ -1,0 +1,50 @@
+[
+  {
+    "id": "d1",
+    "name": "Dr. Ayesha Rahman",
+    "specialty": "Cardiologist",
+    "image":"https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&w=500&q=80" ,
+    "experience": "10 years",
+    "availability": ["09:00 AM - 12:00 PM", "04:00 PM - 07:00 PM"],
+    "description": "Highly experienced cardiologist specializing in heart diseases, preventive care, and patient-centered treatment.",
+    "hospital": "Labaid Cardiac Hospital",
+    "location": "Dhanmondi, Dhaka",
+    "fee": 800
+  },
+  {
+    "id": "d2",
+    "name": "Dr. Kamrul Hasan",
+    "specialty": "Dermatologist",
+    "image": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?auto=format&fit=crop&w=500&q=80" ,
+    "experience": "8 years",
+    "availability": ["10:00 AM - 01:00 PM", "06:00 PM - 09:00 PM"],
+    "description": "Expert skin specialist focused on advanced acne treatment, skincare routines, and allergic reactions.",
+    "hospital": "Square Hospitals Ltd.",
+    "location": "Panthapath, Dhaka",
+    "fee": 1000
+  },
+  {
+    "id": "d3",
+    "name": "Dr. Sadiya Afrin",
+    "specialty": "Pediatrician",
+    "image": "https://images.unsplash.com/photo-1594824813573-246434de83fb?auto=format&fit=crop&w=500&q=80",
+    "experience": "12 years",
+    "availability": ["11:00 AM - 02:00 PM", "05:00 PM - 08:00 PM"],
+    "description": "Compassionate child specialist dedicated to infant nutrition, growth monitoring, and general pediatric care.",
+    "hospital": "Apollo Imperial Hospital",
+    "location": "Chittagong",
+    "fee": 700
+  },
+  {
+    "id": "d4",
+    "name": "Dr. Rafiqul Islam",
+    "specialty": "Neurologist",
+    "image": "https://images.unsplash.com/photo-1622253692010-333f2da6031d?q=80&w=400&auto=format&fit=crop",
+    "experience": "15 years",
+    "availability": ["03:00 PM - 06:00 PM"],
+    "description": "Renowned neurologist specializing in migraine management, stroke recovery, and complex brain disorders.",
+    "hospital": "Dhaka Medical College Hospital",
+    "location": "Ramna, Dhaka",
+    "fee": 1200
+  }
+]
